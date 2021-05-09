@@ -1,6 +1,5 @@
 // const cors = require('cors');
 const express = require('express');
-const db = require('./db');
 const { ApolloServer, gql } = require('apollo-server-express');
 
 const port = process.env.PORT || 9000;
