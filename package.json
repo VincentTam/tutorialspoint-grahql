@@ -2,7 +2,8 @@
   "name": "hello-world-server",
   "private": true,
   "scripts": {
-    "start": "nodemon --ignore data/ server.js"
+    "start": "node server.js",
+    "start:dev": "nodemon --ignore data/ server.js"
   },
   "dependencies": {
     "apollo-server": "^2.24.0",
