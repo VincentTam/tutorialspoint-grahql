@@ -1,0 +1,7 @@
+{
+  "name": "Sample GraphQL App",
+  "description": "A sample GraphQL server with local DB using Express",
+  "repository": "https://github.com/VincentTam/tutorialspoint-grahql",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["graphql", "express"]
+}
