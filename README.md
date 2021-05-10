@@ -9,3 +9,4 @@ References:
 
 - https://stackoverflow.com/a/52236111/3184351
 - https://www.apollographql.com/docs/apollo-server/migration-two-dot/
+- https://www.apollographql.com/docs/apollo-server/deployment/heroku/#prerequisites
